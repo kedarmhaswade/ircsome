@@ -1,7 +1,7 @@
 ircsome
 =======
 
-An experiment in sentiment analysis
+An experiment in sentiment analysis.
 
 The What
 ========
@@ -12,7 +12,6 @@ We decided to give this a try, while discussing things over dinner table. I deci
 What should we be able to predict/say from this data? I guess in order to be useful, it needs to be able to do the following:
 
 1. Given a date range, it should be able to find clusters of people with similar mindset. This is the classic clustering I suppose. Thus the clusters could be adjectives like _generous_, _kind_, _helpful_, _strict_, _professional_, _calm_, _playful_, _serious_ etc.
-
 2. Given a day, it should be possible to say what __mood__ a particular person was in.
-
-3. 
+3. Given a handle, predict how likely s/he is going to be say _angry_.
+4. 
